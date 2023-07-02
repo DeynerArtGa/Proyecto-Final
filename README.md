@@ -19,6 +19,3 @@ Este proyecto simula un sistema de ventas y utiliza Java + Swing.
 * Swing
 ### IDE
 * Netbeans IDE 8.2
-
-## Propósito
-El principal propósito de este proyecto es servir como ejemplo para quienes deseen implementar las tecnologías anteriormente nombradas.
